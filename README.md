@@ -4,7 +4,7 @@ Hi,
 
 This website is dedicated to Zappiti Media Center v4 plugins.
 
-It provide a couple a project samples that allow to create a custom movie/tvshow scraper.
+It provide a couple of projects samples that allow to create a custom movie/tvshow scraper.
 
 Basically, your plugin must provide a class that implement IMovieScraper / ITvShowScraper interface.
 

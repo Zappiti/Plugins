@@ -1,5 +1,7 @@
 # Plugins
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/146ac91a86ea4f7fa879a320766278b0)](https://www.codacy.com/app/Filimindji/Plugins?utm_source=github.com&utm_medium=referral&utm_content=Zappiti/Plugins&utm_campaign=badger)
+
 Hi,
 
 This website is dedicated to Zappiti Media Center v4 plugins.
